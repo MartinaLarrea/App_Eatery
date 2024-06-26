@@ -10,7 +10,8 @@ In response to the growing popularity of the gastronomic sector in Argentina, Ea
 
 ### Key Features
 
-- **Personalized Recommendations**: completar
+- **Personalized Recommendations**: Using a content-based recommendation system, Eatery analyzes user preferences such as favorite cuisine, eating habits, budget, and ambiance to provide tailored restaurant suggestions.
+
 
 ### Benefits
 
